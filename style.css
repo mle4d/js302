@@ -30,7 +30,7 @@ body {
 .clock-face {
   border-radius: 50%;
   background: url(assets/12.png) center center;
-  background-size: 375px 375px;
+  background-size: 300px 300px;
   position: relative;
   width: 100%;
   height: 100%;
